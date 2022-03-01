@@ -17,35 +17,51 @@
 	}
 	#b1 {
 		top: 25%;
-		left: 10%;
-		width: 80%;
-		height: 12%;
+		left: 5%;
+		width: 40%;
+		height: 25%;
 		background-color: hotpink;
-		border-radius: 15px
+		border-radius: 15px;
+        background-image: url(zada.png);
+		background-repeat: no-repeat;
+		background-size: 60% 55%;
+		background-position: 30% 75%;
 	}
 	#b2 {
-		top: 40%;
-		left: 10%;
-		width: 80%;
-		height: 12%;
+		top: 25%;
+		left: 55%;
+		width: 40%;
+		height: 25%;
 		background-color: tomato;
-		border-radius: 15px
+		border-radius: 15px;
+		background-image: url(uche.png);
+		background-repeat: no-repeat;
+		background-size: 60% 55%;
+		background-position: 30% 75%;
 	}
 	#b3 {
 		top: 55%;
-		left: 10%;
-		width: 80%;
-		height: 12%;
+		left: 5%;
+		width: 40%;
+		height: 25%;
 		background-color: aquamarine;
-		border-radius: 15px
+		border-radius: 15px;
+		background-image: url(hobbies.png);
+		background-repeat: no-repeat;
+		background-size: 60% 55%;
+		background-position: 30% 75%;
 	}
 	#b4 {
-		top: 70%;
-		left: 10%;
-		width: 80%;
-		height: 12%;
+		top: 55%;
+		left: 55%;
+		width: 40%;
+		height: 25%;
 		background-color: lightgreen;
 		border-radius: 15px;
+		background-image: url(ladder.png);
+		background-repeat: no-repeat;
+		background-size: 60% 55%;
+		background-position: 30% 75%;
 	}
 	#f1 {
 		top: 20%;
@@ -56,6 +72,10 @@
 		border-radius: 100px;
 		text-align: center;
 		line-height: 110%;
+		background-image: url(home.png);
+		background-repeat: no-repeat;
+		background-size: 55% 55%; 
+		background-position: 50% 50%
 	}
 	#hb1 {
 		top: 25%;
@@ -113,28 +133,28 @@
 		position: absolute;
         left: 7%; 
         top: 18%;
-        font-size: 15px;
+        font-size: 20px;
         color: black;
 	}
 	.sp5 {
 		position: absolute;
         left: 7%; 
         top: 18%;
-        font-size: 15px;
+        font-size: 20px;
         color: black;
 	}
 	.sp6 {
 		position: absolute;
         left: 7%; 
         top: 18%;
-        font-size: 15px;
+        font-size: 20px;
         color: black;
 	}
 	.sp7 {
 		position: absolute;
         left: 7%; 
         top: 18%;
-        font-size: 15px;
+        font-size: 20px;
         color: black;
 	}
 	footer {
